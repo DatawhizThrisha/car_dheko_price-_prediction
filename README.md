@@ -29,8 +29,6 @@ Ensure the dataset is in `.csv` format and is pre-processed before use.
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/car_dheko_price_prediction.git
-   ```
 2. Navigate to the project directory:
    ```bash
    cd car_dheko_price_prediction
