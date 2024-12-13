@@ -26,18 +26,6 @@ Ensure the dataset is in `.csv` format and is pre-processed before use.
 - Python (3.8 or higher)
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`, `flask` (for deployment)
 
-### Steps:
-1. Clone the repository:
-   ```bash
-2. Navigate to the project directory:
-   ```bash
-   cd car_dheko_price_prediction
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Add the `result.csv` dataset to the project directory.
 
 ## Usage
 ### Data Preprocessing:
