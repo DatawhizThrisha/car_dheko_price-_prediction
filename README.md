@@ -64,17 +64,6 @@ Ensure the dataset is in `.csv` format and is pre-processed before use.
 ### Prediction:
 Use the trained model to predict car prices based on new data inputs.
 
-## Deployment
-- Build a Flask or Streamlit app for an interactive user interface.
-- Provide input fields for car details and display the predicted price.
-
-## Results
-- The model achieved an accuracy of **XX%** on the test set.
-- Example predictions:
-  | Car Name    | Mileage | Fuel Type | Predicted Price |
-  |-------------|---------|-----------|-----------------|
-  | Honda City  | 15.6    | Petrol    | $10,000         |
-
 ## Future Work
 - Integrate advanced ML models for better accuracy.
 - Deploy the model on cloud platforms like AWS or Azure.
@@ -82,9 +71,6 @@ Use the trained model to predict car prices based on new data inputs.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
 Happy Coding!
